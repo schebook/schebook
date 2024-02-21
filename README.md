@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 👇 Currently I'm....
 ```yaml
-Finishing my first class at Merrimack! And am set to begin on my next in the upcoming week.
+Exploring Java in my Software Design and Documentation class!
 ```
 
 ## 📧 You can find me...
