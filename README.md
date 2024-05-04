@@ -9,12 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 Aspiring Software Developer with new ideas and ambition to learn.
 - 👨‍🎓 Studying a Masters of Computer Science at Merrimack College
-- 🖱️ Current IT Support Technician II at a consulting company in Boston.
-- I plan to upload all projects here on GitHub!
+- 🖱️ Current IT Analyst at a Cyber Risk assesment company in Boston.
 
 👇 Currently I'm....
 ```yaml
-Exploring Java in my Software Design and Documentation class!
+Finishing my Software Design and Documentation course. Focussing on learning Javascript.
 ```
 
 ## 📧 You can find me...
