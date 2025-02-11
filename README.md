@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 👇 Currently I'm....
 ```yaml
-Finishing my Software Design and Documentation course. Focussing on learning Javascript.
+Working as an IT Analyst. Working on my coding knowledge in my off time.
 ```
 
 ## 📧 You can find me...
